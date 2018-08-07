@@ -1,0 +1,4 @@
+appId: com.visal.autoupdate
+publish:
+    provider: github
+    token: 31310dac664f60b797a6f6d4627c27d2e307ac50 
