@@ -1,0 +1,12 @@
+.DS_Store
+.env
+.dmg
+node_modules/
+*win32-x64/
+*win32-ia32/
+*darwin-x64/
+debug.log
+build
+release
+npm-debug.log
+app.log
